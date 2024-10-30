@@ -13,7 +13,7 @@ public class DoWhileLoops : MonoBehaviour
         {
             print("Hello World");
 
-        }while( shouldContinue  == false );
+        }while( shouldContinue  == true );
     }
 
     // Update is called once per frame
